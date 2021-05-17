@@ -1,2 +1,0 @@
-# WangyiyueMusic
-A mini programming
